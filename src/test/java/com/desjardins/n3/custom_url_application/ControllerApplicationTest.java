@@ -8,6 +8,6 @@ class ControllerApplicationTest {
 
     @Test
     void contextLoads() {
-        // Le test passe si le contexte Spring se charge correctement
+        // Ok if context is ok, but kind of useless since SecurityConfigurationTest also pulls context.
     }
 }
